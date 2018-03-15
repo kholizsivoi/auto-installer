@@ -20,4 +20,5 @@
 * Sebelum script Auto Install berikut diinstall, pastikan bahwa VPS Anda mempunyai OS Debian 7 32/64 Bit. Pastikan juga VPS masih fresh.
 
 ● Copas perintah berikut lalu tekan enter
+* apt-get install ca-certificates
 * wget https://raw.githubusercontent.com/kholizsivoi/auto-installer/master/debian.sh && chmod +x debian.sh && ./debian.sh

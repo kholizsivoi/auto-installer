@@ -1,4 +1,4 @@
-# Feature script Auto-Install :
+● Feature script Auto-Install :
 
 * OpenSSH, port : 22, 143
 * Dropbear, port : 80, 444
@@ -9,7 +9,7 @@
 * Nginx : 81
 * OpenVPN TCP 1194
 * Script menu : untuk menampilkan menu
-* Script use-add : membuat akaun SSH
+* Script user-add : membuat akaun SSH
 * Script trial : membuat akaun trial
 * Script user-del : menghapus akaun SSH
 * Script user-login : mengecek user login
@@ -19,8 +19,5 @@
 * Script about : informasi tentang script auto install
 * Sebelum script Auto Install berikut diinstall, pastikan bahwa VPS Anda mempunyai OS Debian 7 32/64 Bit. Pastikan juga VPS masih fresh.
 
-
-
 # Copas perintah berikut lalu tekan enter
-
 wget https://raw.githubusercontent.com/kholizsivoi/auto-installer/master/debian.sh && chmod +x debian.sh && ./debian.sh

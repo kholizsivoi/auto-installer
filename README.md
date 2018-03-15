@@ -19,5 +19,5 @@
 * Script about : informasi tentang script auto install
 * Sebelum script Auto Install berikut diinstall, pastikan bahwa VPS Anda mempunyai OS Debian 7 32/64 Bit. Pastikan juga VPS masih fresh.
 
-# Copas perintah berikut lalu tekan enter
-wget https://raw.githubusercontent.com/kholizsivoi/auto-installer/master/debian.sh && chmod +x debian.sh && ./debian.sh
+● Copas perintah berikut lalu tekan enter
+* wget https://raw.githubusercontent.com/kholizsivoi/auto-installer/master/debian.sh && chmod +x debian.sh && ./debian.sh
